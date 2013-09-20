@@ -36,14 +36,6 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 [写作环境搭建(git+github+markdown+jekyll)](http://site.douban.com/196781/widget/notes/12161495/note/264946576/)
 
 [Jekyll - Syntax highlighting](http://truongtx.me/2012/12/28/jekyll-bootstrap-syntax-highlighting/)
-
-	#include <stdio.h>
-	int main(int argc, char **argv)
-	{
-    		printf("Hello, World!\n");
-    		return 0;
-	}
-
 {% highlight c %}  
 #include <stdio.h>
 int main(int argc, char **argv)
@@ -52,21 +44,30 @@ int main(int argc, char **argv)
 	return 0;
 }
 {% endhighlight %}
-
-	\documentclass{article}
-	\usepackage[koi8-r]{inputenc}
-	\hoffset=0pt
-	\voffset=.3em
-	\tolerance=400
-	\newcommand{\eTiX}{\TeX}
-	\begin{document}
-	\section*{Highlight.js}
-	\begin{table}[c|c]
-	$\frac 12\, + \, \frac 1{x^3}\text{Hello \! world}$ & \textbf{Goodbye\~ world} \\\eTiX $ \pi=400 $
-	\end{table}
-	Ch\'erie, \c{c}a ne me pla\^\i t pas! % comment \b
-	G\"otterd\"ammerung~45\%=34.
-	$$
-	    \int\limits_{0}^{\pi}\frac{4}{x-7}=3
-	$$
-	\end{document}
+{% highlight c %}  
+#include <stdio.h>
+int main(int argc, char **argv)
+{
+	printf("Hello, World!\n");
+	return 0;
+}
+{% endhighlight %}
+{% highlight tex %}  
+\documentclass{article}
+\usepackage[koi8-r]{inputenc}
+\hoffset=0pt
+\voffset=.3em
+\tolerance=400
+\newcommand{\eTiX}{\TeX}
+\begin{document}
+\section*{Highlight.js}
+\begin{table}[c|c]
+$\frac 12\, + \, \frac 1{x^3}\text{Hello \! world}$ & \textbf{Goodbye\~ world} \\\eTiX $ \pi=400 $
+\end{table}
+Ch\'erie, \c{c}a ne me pla\^\i t pas! % comment \b
+G\"otterd\"ammerung~45\%=34.
+$$
+    \int\limits_{0}^{\pi}\frac{4}{x-7}=3
+$$
+\end{document}
+{% endhighlight %}

@@ -1,0 +1,57 @@
+---
+layout: post
+title: "GDB常用命令"
+description: ""
+category: GBD
+tags: [GBD, 调试]
+---
+{% include JB/setup %}
+_list_					List the source
+
+_break N_					Set breakpoint at line N
+
+_break FUNC_				Set breakpoint at the function FUNC
+
+_info break_				Show breakpoints information
+
+_run_						Run to the first breakpoint
+
+_next_					Single step(enter into function)
+
+_step_					Single step(don't enter into function)
+
+_continue_				Continue running
+
+_print VAR_				Print out the value of VAR
+
+_bt_						Show function stack
+
+_finish_					Jump out function
+
+_shell CMD_				Execute shell command
+
+_set args VALUE_			Set runtime arguments' value
+
+_show args_				Show runtime arguments' value
+
+_info program_			Check whether the program is running
+
+_clear N_					Clear the breakpoint at line N
+
+_disable N_				Disable the N-th breakpoint
+
+_enable N_				Enable the N-th breakpoint
+
+_watch	STATEMENT_		Monitor a statement's value
+
+_call FUNC(ARGS)_			Call function
+
+_layout src_				Display source
+
+_layout asm_				Display ..
+
+_layout regs_				Display registers
+
+_quit_					Quit DGB
+
+_Ctrl-L_					Refresh
