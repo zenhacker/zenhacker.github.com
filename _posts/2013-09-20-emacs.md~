@@ -2,7 +2,7 @@
 layout: post
 title: "Emacs内置常用快捷键和常用插件键绑定"
 description: ""
-category: 
+category: Emacs
 tags: [Emacs, 快捷键, 插件]
 ---
 {% include JB/setup %}
@@ -80,7 +80,7 @@ tags: [Emacs, 快捷键, 插件]
 ### Emacs C/C++ IDE plugin key-binding
 #### Common
 	<F1>				Manual-entry
-	<F2>				Info page
+	C-<F1>				Info page
 	<F3>				Grep find
 	<F4>				Speedbar get focus
 	<F5>				Gdb
