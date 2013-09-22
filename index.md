@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ZenHacker
+title: ZenHacker's Home
 tagline: 
 ---
 {% include JB/setup %}
@@ -36,7 +36,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 [写作环境搭建(git+github+markdown+jekyll)](http://site.douban.com/196781/widget/notes/12161495/note/264946576/)
 
 [Jekyll - Syntax highlighting](http://truongtx.me/2012/12/28/jekyll-bootstrap-syntax-highlighting/)
-{% highlight c %}  
+{% highlight c %}
 #include <stdio.h>
 int main(int argc, char **argv)
 {
@@ -44,7 +44,7 @@ int main(int argc, char **argv)
 	return 0;
 }
 {% endhighlight %}
-{% highlight c %}  
+{% highlight c %}
 #include <stdio.h>
 int main(int argc, char **argv)
 {
@@ -52,7 +52,7 @@ int main(int argc, char **argv)
 	return 0;
 }
 {% endhighlight %}
-{% highlight tex %}  
+{% highlight tex %}
 \documentclass{article}
 \usepackage[koi8-r]{inputenc}
 \hoffset=0pt

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ZenHacker
+title: ZenHacker's Home
 tagline: 
 ---
 {% include JB/setup %}
@@ -52,7 +52,7 @@ int main(int argc, char **argv)
 	return 0;
 }
 {% endhighlight %}
-{% highlight c %}  
+{% highlight tex %}  
 \documentclass{article}
 \usepackage[koi8-r]{inputenc}
 \hoffset=0pt
