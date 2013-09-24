@@ -8,8 +8,8 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ZenHacker's Home
-tagline: Site Tagline
+title : ZenHacker
+tagline: 
 author :
   name : Xiangzeng Zhou
   email : xiangzengzhou@gmail.com

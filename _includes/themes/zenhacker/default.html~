@@ -51,9 +51,12 @@
 
           <div class="nav-collapse">
             <ul class="nav">
-              {% assign pages_list = site.pages %}
+              {% assign pages_list = [publication] %}
               {% assign group = 'navigation' %}
-              {% include JB/pages_list %}
+              {% include JB/pages_list %} 
+		<!-- <li class="archive"><a href="/pages/publication.html">Publication</a></li>
+		<li class="page"><a href="/pages/cv.md">CV</a></li>
+		<li class="category"><a href="/pages/blog.html">Blog</a></li> -->
             </ul>
             <ul class="nav pull-right social visible-desktop">
               <li class="divider-vertical"></li>
