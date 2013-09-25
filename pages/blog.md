@@ -41,7 +41,12 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 1. Personal Page, Personal CV
 2. Learning Material Collection
 
-
+	#include <stdio.h>
+	int main(int argc, char **argv)
+	{
+		printf("Hello, World!\n");
+		return 0;
+	}
 {% highlight c %}
 #include <stdio.h>
 int main(int argc, char **argv)
