@@ -12,12 +12,13 @@ group: "navigation"
     <tr>
         <td><img src="xzzhou.jpg" /></td>
 	<td>
-		<b>Xiangzeng ZHOU</b>
+		<b>Xiangzeng ZHOU</b></br>
 		</br>Ph.D Candidate
 		</br>School of Computer Science
 		</br>Northwestern Polytechnical University
-		</br>xiangzengzhou@gmail.com
-	</td>
+		</br>Chang'an district, Xi'an, Shaanxi Province, China, 710072
+		</br><a href="mailto:xiangzengzhou@gmail.com">xiangzengzhou@gmail.com</a>
+	</td>	
     </tr>
 </table> 
 
@@ -30,6 +31,9 @@ group: "navigation"
 * Pattern Recognition
 * Machine Learning
 * Object Detection and Tracking
+
+## QR Code
+<center><img src="qrcode.png" /></center>
 
 
 

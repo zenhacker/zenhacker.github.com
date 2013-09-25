@@ -6,16 +6,42 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### 2013
-* Xiangzeng Zhou, Qiang Huang, Lei Xie, and Stephen J. Cox, “A Two Layered Data Association Approach For Tennis Ball Tracking”, in Proc. ICASSP2013.
+<table width="100%" border="0">
+<tr><td><b>2013</b></td></tr>
+<tr>
+<td><img src="balltracking.png" width="200"/></td>
+<td>Xiangzeng Zhou, Qiang Huang, Lei Xie, and Stephen J. Cox, “A Two Layered Data Association Approach For Tennis Ball Tracking”, in Proc. ICASSP2013.[<a href="#">bibtex</a>][<a href="#">pdf</a>]</td>
+</tr>
+</table>
+
 - - -
-### 2012
-* Qiang Huang, Stephen Cox, Xiangzeng Zhou, and Lei Xie, "Detection of ball hits in a tennis game using audio and visual information", in Proc. APSIPA Annual Summit and Conference, 2012.
+<table width="100%" border="0">
+<tr><td><b>2012</b></td></tr>
+<tr>
+<td><img src="publication/Huang-2012-6411936.png" width="200"/></td>
+<td>Qiang Huang, Stephen Cox, Xiangzeng Zhou, and Lei Xie, Detection of ball hits in a tennis game using audio and visual information, in Proc. APSIPA Annual Summit and Conference, 2012.[<a href="publication/Huang-2012-6411936.bib">bibtex</a>][<a href="publication/Huang-2012-6411936.pdf">pdf</a>]</td>
+</tr>
+</table>
+
 - - -
-### 2011
-* 牛建伟, 谢磊, 路晓明, 周祥增, 张艳宁. 基于多置信特征融合语音识别拒识算法的设计与实现, 第十一届全国人机语音通讯学术会议, 2011, 页码4.
-* "Real-time speech-driven virtual avatar", The 11st National Conference on Man-Machine Speech Communication, 2011. Xi’an China. (EI)
+<table width="100%" border="0">
+<tr><td><b>2011</b></td></tr>
+<tr>
+<td><img src="nil.png" width="200"/></td>
+<td>牛建伟, 谢磊, 路晓明, 周祥增, 张艳宁,《基于多置信特征融合语音识别拒识算法的设计与实现》,第十一届全国人机语音通讯学术会议,2011,页码4.[<a href="#">bibtex</a>]</td>
+</tr>
+<tr>
+<td><img src="nil.png" width="200"/></td>
+<td>Real-time speech-driven virtual avatar, The 11st National Conference on Man-Machine Speech Communication, 2011. Xi’an China.[<a href="#">bibtex</a>]</td>
+</tr>
+</table>
+
 - - -
-### 2010
-* "Speech and Auditory Interfaces for Ubiquitous, Immersive and Personalized Applications", Demo for The 7th International Conference on Ubiquitous Intelligence and Computing (UIC), October 26-29, 2010, China. (EI)
+<table width="100%" border="0">
+<tr><td><b>2010</b></td></tr>
+<tr>
+<td><img src="nil.png" width="200"/></td>
+<td>Speech and Auditory Interfaces for Ubiquitous, Immersive and Personalized Applications, Demo for The 7th International Conference on Ubiquitous Intelligence and Computing (UIC), October 26-29, 2010, China.[<a href="#">bibtex</a>]</td>
+</tr>
+</table>
 - - -

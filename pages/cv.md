@@ -22,7 +22,7 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 ## RESEARCH EXPERIENCE
 <table>
 <tr>
-	<td width="20%"><img src="xzzhou.jpg" height="203" width="200"/></td>
+	<td width="20%"><img src="QA-ATM.png" width="200"/></td>
 	<td>
 		<b>Towards a Queue-Aware ATM: Monitoring and Managing Queues in front of ATMs</b></br>
 		<p>In order to monitoring queues in front of ATMs, apply stereo camera real-time object tracking approach. With the aid of camera’s real-time tracking, develop a simple application system which can give customer a suggested queue and estimated queuing time.</p>
@@ -30,10 +30,18 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 </tr>
 
 <tr>
-	<td width="20%"><img src="xzzhou.jpg" height="203" width="200"/></td>
+	<td width="20%"><img src="BestKnow.png" width="200"/></td>
 	<td>
 		<b>Keyword Spotting based Real-time Dialog System</b></br>
 		<p>Make a question-set limited Dialog System implemented by Keyword Spotting approach with improved Online Garbage Model. My main task is proposing a improved method based on Online Garbage Keyword Spotting Model.</p>
+	</td>
+</tr>
+
+<tr>
+	<td width="20%"><img src="KeywordSpotting.png" width="200"/></td>
+	<td>
+		<b>Keyword Spotting Tool</b></br>
+		<p>Make a Keyword Spotting Tool which user can dynamically add or remove keywords by hand.</p>
 	</td>
 </tr>
 </table>
@@ -41,7 +49,7 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 - - -
 
 ## ACTIVITIES
-<table width="100%" border="1">
+<table width="100%" border="0">
 <tr>
 <td><b>Poster Presentation</b></td>
 <td>Mar. 26 - 31, 2013</td>
@@ -79,8 +87,8 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 </tr>
 
 <tr>
-<td><b>Intern</b></td>
-<td>Jun., 2009</td>
+<td width="200"><b>Intern</b></td>
+<td width="150">Jun., 2009</td>
 <td>KunShan (Suzhou) Ambow Software Training Base, Suzhou, China.</td>
 </tr>
 </table>
