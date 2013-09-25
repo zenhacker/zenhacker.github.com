@@ -25,7 +25,7 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 	<td width="20%"><img src="QA-ATM.png" width="200"/></td>
 	<td>
 		<b>Towards a Queue-Aware ATM: Monitoring and Managing Queues in front of ATMs</b></br>
-		<p>In order to monitoring queues in front of ATMs, apply stereo camera real-time object tracking approach. With the aid of camera’s real-time tracking, develop a simple application system which can give customer a suggested queue and estimated queuing time.</p>
+		<p><font face="verdana" size="2">In order to monitoring queues in front of ATMs, apply stereo camera real-time object tracking approach. With the aid of camera’s real-time tracking, develop a simple application system which can give customer a suggested queue and estimated queuing time.</font></p>
 	</td>
 </tr>
 
@@ -33,7 +33,7 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 	<td width="20%"><img src="BestKnow.png" width="200"/></td>
 	<td>
 		<b>Keyword Spotting based Real-time Dialog System</b></br>
-		<p>Make a question-set limited Dialog System implemented by Keyword Spotting approach with improved Online Garbage Model. My main task is proposing a improved method based on Online Garbage Keyword Spotting Model.</p>
+		<p><font face="verdana" size="2">Make a question-set limited Dialog System implemented by Keyword Spotting approach with improved Online Garbage Model. My main task is proposing a improved method based on Online Garbage Keyword Spotting Model.</font></p>
 	</td>
 </tr>
 
@@ -41,7 +41,7 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 	<td width="20%"><img src="KeywordSpotting.png" width="200"/></td>
 	<td>
 		<b>Keyword Spotting Tool</b></br>
-		<p>Make a Keyword Spotting Tool which user can dynamically add or remove keywords by hand.</p>
+		<p><font face="verdana" size="2">Make a Keyword Spotting Tool which user can dynamically add or remove keywords by hand.</font></p>
 	</td>
 </tr>
 </table>
@@ -49,7 +49,7 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 - - -
 
 ## ACTIVITIES
-<table width="100%" border="1">
+<table width="100%" border="0">
 <tr>
 <td><b>Poster Presentation</b></td>
 <td>Mar. 26 - 31, 2013</td>

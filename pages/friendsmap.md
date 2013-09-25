@@ -14,6 +14,10 @@ group: navigation
 
 * 360
 
+* 北大
+
+	[王灿](http://robotics.szpku.edu.cn/c/member/cwang.html): Computer Vision, Data Association
+
 ### Xi'an (西安)
 * Huawei(华为)
 
@@ -21,7 +25,10 @@ group: navigation
 ### Shenzhen (深圳)
 * Tencent(腾讯)
 
+### HongKong (香港)
+* 香港城市大学
 
+	[李思晋](): Computer Vision
 - - -
 ## U.S.A (美国)
 
