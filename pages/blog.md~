@@ -13,7 +13,7 @@ group: navigation
   {% endfor %}
 </ul>
 
-## Common Link
+## Misc
 ### [Search]
 [Google](http://www.google.com)<br>
 [百Google度](http://www.baigoogledu.com)<br>
@@ -41,6 +41,11 @@ ECCV:<br>
 ICASSP:<br>
 InterSpeech:<br>
 
+### Soon
+[CVPR 2014, Columbus, Ohio](http://www.pamitc.org/cvpr14/) > Deadline: Nov. 1, 2013<br>
+[ECCV 2014, Zurich](http://eccv2014.org/) > Deadline: Mar. 7, 2014 <br>
+[ICASSP 2014, Florence, Italy](http://www.icassp2014.org/home.html) > Deadline: Oct. 27, 2013<br>
+[Interspeech 2014, Singapore](http://www.interspeech2014.org/public.asp?page=home.html) > ??
 ## Refs
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)<br>
