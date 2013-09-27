@@ -23,34 +23,34 @@ group: navigation
 - - -
 ### 资讯
 <a href="http://www.huxiu.com/index.php">
-	<img src="/misc/huxiu.ico" height="50" />
+<img src="misc/huxiu.ico" height="50" />
 </a>
 <a href="http://www.douban.com/">
-	<img src="misc/douban.png" height="50" />
+<img src="misc/douban.png" height="50" />
 </a>
 <a href="http://www.163.com/">
-	<img src="misc/163.png" height="50" />
+<img src="misc/163.png" height="50" />
 </a>
 <a href="http://www.iheima.com/">
-	<img src="misc/iheima.png" height="50" />
+<img src="misc/iheima.png" height="50" />
 </a>
 <a href="http://www.ifeng.com/">
-	<img src="misc/ifeng.png" height="50" />
+<img src="misc/ifeng.png" height="50" />
 </a>
 <a href="http://www.infzm.com/">
-	<img src="misc/infzm.png" height="50" />
+<img src="misc/infzm.png" height="50" />
 </a>
 <a href="http://www.aqee.com/">
-	<img src="misc/aqee.png" height="50" />
+<img src="misc/aqee.png" height="50" />
 </a>
 <a href="http://mail.163.com/">
-	<img src="misc/163mail.png" height="50" />
+<img src="misc/163mail.png" height="50" />
 </a>
 <a href="https://mail.google.com/mail/ca/u/0/?shva=1#inbox">
-	<img src="misc/gmail.png" height="50" />
+<img src="misc/gmail.png" height="50" />
 </a>
 <a href="https://www.google.com/calendar/b/2/render">
-	<img src="misc/google-calendar.jpg" height="50" />
+<img src="misc/google-calendar.jpg" height="50" />
 </a><br><br><br><br><br><br><br><br><br><br>
 <!-- [[虎嗅]](http://www.huxiu.com/index.php)
 [[豆瓣]](http://www.douban.com/)  
@@ -65,16 +65,16 @@ group: navigation
 - - -
 ### 社交
 <a href="http://www.renren.com">
-	<img src="misc/renren.png" height="50" />
+<img src="misc/renren.png" height="50" />
 </a>
 <a href="http://login.sina.com.cn/member/my.php">
-	<img src="misc/sinaweibo.png" height="50" />
+<img src="misc/sinaweibo.png" height="50" />
 </a>
 <a href="http://bbs.nwpu.edu.cn/portal.php">
-	<img src="misc/sanhangsifang.png" height="50" />
+<img src="misc/sanhangsifang.png" height="50" />
 </a>
 <a href="https://github.com/zenhacker">
-	<img src="misc/github-zenhacker.png" height="50" />
+<img src="misc/github-zenhacker.png" height="50" />
 </a><br><br><br>
 <!-- [[人人网]](http://www.renren.com/) 
 [[新浪微博]](http://login.sina.com.cn/member/my.php) 
@@ -84,28 +84,28 @@ group: navigation
 - - -
 ### 论坛博客类
 <a href="http://www.sigvc.org/bbs/">
-	<img src="misc/sigvc.png" height="50" />
+<img src="misc/sigvc.png" height="50" />
 </a>
 <a href="http://www.phdcomics.com/comics.php">
-	<img src="misc/phdcomics.png" height="50" />
+<img src="misc/phdcomics.png" height="50" />
 </a>
 <a href="http://forum.ubuntu.org.cn/index.php">
-	<img src="misc/ubuntu-china.png" height="50" />
+<img src="misc/ubuntu-china.png" height="50" />
 </a>
 <a href="http://www.opencv.org.cn/">
-	<img src="misc/opencv-china.png" height="50" />
+<img src="misc/opencv-china.png" height="50" />
 </a>
 <a href="http://www.oschina.net/">
-	<img src="misc/oschina.png" height="50" />
+<img src="misc/oschina.png" height="50" />
 </a>
 <a href="https://www.coursera.org/">
-	<img src="misc/coursera.png" height="50" />
+<img src="misc/coursera.png" height="50" />
 </a>
 <a href="http://zzg34b.w3.c361.com/index.htm">
-	<img src="misc/latex-editor.png" height="50" />
+<img src="misc/latex-editor.png" height="50" />
 </a>
 <a href="http://emacser.com">
-	<img src="misc/emacser.png" height="50" />
+<img src="misc/emacser.png" height="50" />
 </a><br><br><br><br><br><br><br><br><br><br>
 <!-- [[视觉计算研究论坛]](http://www.sigvc.org/bbs/) 
 [[PhD Comics]](http://www.phdcomics.com/comics.php) 
@@ -119,19 +119,19 @@ group: navigation
 - - -
 ### 在线工具
 <a href="http://www.numberempire.com/texequationeditor/equationeditor.php">
-	<img src="misc/latex-equation-editor.png" height="50" />
+<img src="misc/latex-equation-editor.png" height="50" />
 </a>
 <a href="http://detexify.kirelabs.org/classify.html">
-	<img src="misc/latex-symbol-classifier.png" height="50" />
+<img src="misc/latex-symbol-classifier.png" height="50" />
 </a>
 <a href="http://tools.dynamicdrive.com/favicon/#.UkQ7XIoW20w">
-	<img src="misc/favicon.png" height="50" />
+<img src="misc/favicon.png" height="50" />
 </a>
 <a href="http://www.bbc.co.uk/radio/#stations">
-	<img src="misc/iplayer.png" height="50" />
+<img src="misc/iplayer.png" height="50" />
 </a>
 <a href="http://www.buttonbass.com/">
-	<img src="misc/buttonbass.png" height="50" />
+<img src="misc/buttonbass.png" height="50" />
 </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- [[Latex Equation Editor]](http://www.numberempire.com/texequationeditor/equationeditor.php) 
 [[LaTeX symbol classifier]](http://detexify.kirelabs.org/classify.html) 
@@ -142,16 +142,16 @@ group: navigation
 - - -
 ### 在线数据库
 <a href="http://aclweb.org/anthology//index.html">
-	<img src="misc/acl-anthology.png" height="50" />
+<img src="misc/acl-anthology.png" height="50" />
 </a>
 <a href="http://ctext.org/zh">
-	<img src="misc/ctext.png" height="50" />
+<img src="misc/ctext.png" height="50" />
 </a>
 <a href="http://www.sidneyluo.net/index.html">
-	<img src="misc/sidneyluo.png" height="50" />
+<img src="misc/sidneyluo.png" height="50" />
 </a>
 <a href="http://www.ppurl.com/">
-	<img src="misc/ppurl.png" height="50" />
+<img src="misc/ppurl.png" height="50" />
 </a><br><br><br><br><br><br><br>
 <!--[[ACL Anthology]](http://aclweb.org/anthology//index.html) 
 [[中國哲學書電子化計劃]](http://ctext.org/zh) 
@@ -160,10 +160,10 @@ group: navigation
 - - -
 ### Coding
 <a href="http://www.topcoder.com/">
-	<img src="misc/topcoder.png" height="50" />
+<img src="misc/topcoder.png" height="50" />
 </a>
 <a href="http://poj.org/">
-	<img src="misc/poj.png" height="50" />
+<img src="misc/poj.png" height="50" />
 </a><br><br>
 <!-- [[TopCoder]](http://www.topcoder.com/) 
 [[PKU Online Judge]](http://poj.org/)  -->
