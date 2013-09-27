@@ -23,7 +23,7 @@ group: navigation
 - - -
 ### 资讯
 <a href="http://www.huxiu.com/index.php">
-	<img src="misc/huixiu.ico" height="50" />
+	<img src="/misc/huxiu.ico" height="50" />
 </a>
 <a href="http://www.douban.com/">
 	<img src="misc/douban.png" height="50" />

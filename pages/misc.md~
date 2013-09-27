@@ -23,7 +23,7 @@ group: navigation
 - - -
 ### 资讯
 <a href="http://www.huxiu.com/index.php">
-	<img src="misc/huixiu.ico" height="50" />
+	<img src="/misc/huxiu.ico" height="50" />
 </a>
 <a href="http://www.douban.com/">
 	<img src="misc/douban.png" height="50" />
@@ -75,7 +75,7 @@ group: navigation
 </a>
 <a href="https://github.com/zenhacker">
 	<img src="misc/github-zenhacker.png" height="50" />
-</a><br><br><br><br>
+</a><br><br><br>
 <!-- [[人人网]](http://www.renren.com/) 
 [[新浪微博]](http://login.sina.com.cn/member/my.php) 
 [[西工大三航四方]](http://bbs.nwpu.edu.cn/portal.php) 
