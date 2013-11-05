@@ -34,6 +34,15 @@ group: navigation
 [国家自然科学基金委员会](http://www.nsfc.gov.cn/Portal0/default152.htm)<br>
 [CALIS高校学位论文库](http://etd.calis.edu.cn/)<br>
 
+### [Academics]
+[WikiCFP](http://www.wikicfp.com/cfp/)
+[Citeulike](http://www.citeulike.org/home)
+[NOW](http://www.nowpublishers.com/)
+[BibSonomy](http://www.bibsonomy.org/)
+#### @CV
+[CVonline](http://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm)
+[]
+
 ### [Conference]
 CVPR: [2013](http://www.cvpapers.com/cvpr2013.html), [2012](http://www.cvpapers.com/cvpr2012.html), 2011, 2010, 2009<br>
 ICCV:<br>
