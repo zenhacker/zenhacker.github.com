@@ -7,7 +7,8 @@ group: navigation
 {% include JB/setup %}
 
 
-
+### Get Things Done
+[Doit.im](https://i.doitim.com/home/#/today)
 
 ### 网盘
 [[百度云网盘]](http://pan.baidu.com/disk/home) 
@@ -70,6 +71,7 @@ group: navigation
 [[中國哲學書電子化計劃]](http://ctext.org/zh) 
 [[漢川草廬]](http://www.sidneyluo.net/index.html) 
 [[皮皮书屋]](http://www.ppurl.com/)
+[[Cheat-Sheets]](http://www.cheat-sheets.org/)
 - - -
 ### Coding
 [[TopCoder]](http://www.topcoder.com/) 

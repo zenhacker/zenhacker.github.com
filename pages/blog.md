@@ -39,22 +39,44 @@ group: navigation
 [Citeulike](http://www.citeulike.org/home)
 [NOW](http://www.nowpublishers.com/)
 [BibSonomy](http://www.bibsonomy.org/)
-#### @CV
+#### CV
 [CVonline](http://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm)
-[]
+[CVPapers](http://www.cvpapers.com/index.html)
 
-### [Conference]
-CVPR: [2013](http://www.cvpapers.com/cvpr2013.html), [2012](http://www.cvpapers.com/cvpr2012.html), 2011, 2010, 2009<br>
-ICCV:<br>
-ECCV:<br>
-ICASSP:<br>
-InterSpeech:<br>
+### [English]
+[沪江网](http://www.hujiang.com/en/#tabs_mainhearder)
+#### 词汇
+[01-四级核心词汇](http://cichang.hujiang.com/book/10445)
+[02-六级核心词汇](http://cichang.hujiang.com/book/10447)
+[03-托福核心词汇](http://cichang.hujiang.com/book/10567)
+#### 听力
+[01-慢速美音](http://app.hujiang.com/listen/mansu/?date=2013-02-26)
+[02-标准美音](http://app.hujiang.com/listen/biaozhun/)
+#### 口语
 
-### [Next Coming]
-[CVPR 2014, Columbus, Ohio](http://www.pamitc.org/cvpr14/) > Deadline: Nov. 1, 2013<br>
-[ECCV 2014, Zurich](http://eccv2014.org/) > Deadline: Mar. 7, 2014 <br>
-[ICASSP 2014, Florence, Italy](http://www.icassp2014.org/home.html) > Deadline: Oct. 27, 2013<br>
-[Interspeech 2014, Singapore](http://www.interspeech2014.org/public.asp?page=home.html) > ??
+#### 阅读
+
+### [Techniques]
+#### Python
+[PyTech](http://hyry.dip.jp/tech/slice/slice.html/24)<br>
+#### DeepLearning
+[Deep Learning](http://deeplearning.net/)([tutorial](http://deeplearning.net/tutorial/contents.html), [Theano](http://deeplearning.net/software/theano/))<br>
+[Deep Belief Networks资料汇总](http://fantasticinblur.iteye.com/blog/1131640)<br>
+[Deep Learning Methods for Vision - CVPR 2012 Tutorial](http://cs.nyu.edu/~fergus/tutorials/deep_learning_cvpr12/)<br>
+[LISA](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public)<br>
+[A Brief Introduction to Neural Networks - D. Kriesel](http://www.dkriesel.com/en/science/neural_networks)<br>
+
+#### MachineLearning
+[Machine Learning Surveys](http://www.mlsurveys.com/)<br>
+[MALLET](http://mallet.cs.umass.edu/index.php) - a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.<br>
+[STPRTool](http://cmp.felk.cvut.cz/cmp/software/stprtool/) - Statistical Pattern Recognition Toolbox for Matlab.<br>
+[Spider](http://people.kyb.tuebingen.mpg.de/spider/) - a complete object orientated environment for machine learning in Matlab.<br>
+[Maximum Entropy Modeling Toolkit for Python and C++](http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html)<br>
+[Shogun](http://www.shogun-toolbox.org/page/home/) - A Large Scale Machine Learning Toolbox.<br>
+[MILK](https://github.com/luispedro/milk) - Machine Learning Toolkits in Python.<br>
+[国际流行开源机器学习和模式识别工具](http://blog.csdn.net/tangyongkang/article/details/6143031)<br>
+
+
 ## Refs
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)<br>

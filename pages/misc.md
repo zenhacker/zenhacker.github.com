@@ -7,7 +7,12 @@ group: navigation
 {% include JB/setup %}
 
 
+### Get Things Done
+[Doit.im](https://i.doitim.com/home/#/today)
 
+### Online Shopping
+[Amazon](http://www.amazon.com/)
+[淘宝](http://www.taobao.com/)
 
 ### 网盘
 [[百度云网盘]](http://pan.baidu.com/disk/home) 
